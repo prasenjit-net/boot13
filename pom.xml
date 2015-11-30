@@ -8,6 +8,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/prasenjit-net/boot13.git</developerConnection>
+    </scm>
+
     <name>boot13</name>
     <description>Demo project for Spring Boot</description>
 
